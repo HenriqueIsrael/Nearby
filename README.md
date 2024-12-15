@@ -34,7 +34,10 @@ Este projeto foi desenvolvido com fins de estudo. Algumas informações importan
 - **Gradle** - Ferramenta de automação e gerenciamento de dependências.
   
 ## **Vídeo de Apresentação**  
-🔗 [Inserir link do vídeo aqui]  
+
+https://github.com/user-attachments/assets/c618f4f4-d81c-49a4-8064-76d169874d7f
+
+
 
 ## **Execução do Backend Local**
 1. Para a API funcionar, é preciso ter o Node instalado na sua máquina. Caso não tenha, siga essa documentação: [Instalando o Node e o NPM](https://efficient-sloth-d85.notion.site/Instalando-o-Node-e-o-NPM-d162e2582d5c48499bc6703526912456).
