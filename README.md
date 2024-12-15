@@ -51,3 +51,9 @@ https://github.com/user-attachments/assets/c618f4f4-d81c-49a4-8064-76d169874d7f
 2. Abra o projeto pelo Android Studio.
 3. Antes de buildar, configure o arquivo `NearbyRemoteDataSource.kt`. Se estiver usando um dispositivo físico a variável `BASE_URL` (linha 18) deve ser = ` LOCAL_HOST_PHYSICAL_BASE_URL`, entretanto, se estiver usando um emulador `BASE_URL`  = ` LOCAL_HOST_EMULATOR_BASE_URL`.
 4. Com o servidor rodando, você está pronto para buildar o projeto ▶️
+
+## **Contato**
+Se você tiver dúvidas, sugestões ou quiser colaborar, entre em contato:
+
+- **Email:** [henriqueisraeloliveira74@gmail.com](mailto:henriqueisraeloliveira74@gmail.com)
+- **LinkedIn:** [Henrique Israel](https://www.linkedin.com/in/henrique-israel/)
