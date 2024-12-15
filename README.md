@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com fins de estudo. Algumas informações importan
 
 ## **Execução do Backend Local**
 1. Para a API funcionar, é preciso ter o Node instalado na sua máquina. Caso não tenha, siga essa documentação: [Instalando o Node e o NPM](https://efficient-sloth-d85.notion.site/Instalando-o-Node-e-o-NPM-d162e2582d5c48499bc6703526912456).
-2. Abra a pasta backend pelo VS Code.
+2. Extraia a pasta `api.zip` e abra o conteúdo pelo VS Code.
 3. execute o comando: `npm install` e em seguida `npm start`.
    
 ## **Instalação e Configuração**  
