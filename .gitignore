@@ -1,15 +1,51 @@
+# Build files
+.gradle/
+build/
+**/build/
+!.gradle/**/wrapper/gradle-wrapper.jar
+**/out/
+**/build-cache/
+
+# IntelliJ/Android Studio files
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+*.hprof
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+
+# Local configuration files
+/local.properties
+/.env
+
+# OS-specific files
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Generated files
+/captures/
+/output.json
+*.apk
+*.aab
+*.mapping
+*.keystore
+
+# Unit test reports
+/test-results/
+/test-report/
+
+# Temporary files
+*.tmp
+*.temp
+*.lock
+
+# Jetpack Compose compiler cache
+**/compose-compiler
+
+# Dependency directories
+/.gradle/
+/build/
+/node_modules/
