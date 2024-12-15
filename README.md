@@ -1,18 +1,23 @@
-# **Nearby - Clube de Benefícios**  
-## **Descrição**  
+# **Nearby - Clube de Benefícios** 
+
+## **Descrição**
+
 O **Nearby** é um aplicativo Android que facilita o acesso a cupons e benefícios exclusivos para serem utilizados em estabelecimentos próximos à sua localização. Com integração ao **Google Maps API**, o app permite visualizar e navegar até os locais participantes, garantindo praticidade e economia ao usuário.
+
 ## **Observações**
 Este projeto foi desenvolvido com fins de estudo. Algumas informações importantes:
 - 📍 A localização no app está mocada (fixada em uma posição pré-definida).
-- 🛠️ Para visualizar os estabelecimentos, é necessário rodar o backend local. Certifique-se de configurar e iniciar o servidor antes de executar o app.
+- 🛠️ Para visualizar os estabelecimentos, é necessário [executar o backend local](#execução-do-backend-local) . Certifique-se de configurar e iniciar o servidor antes de executar o app.
 - 🚧 Algumas funcionalidades podem ser limitadas, pois o **foco principal foi aplicar conceitos de arquitetura, tecnologias modernas e boas práticas no desenvolvimento Android.**
+  
 ## **Funcionalidades**  
 - 📋 **Listagem** dos estabelecimentos próximos.
 - 🔍 **Filtro de categorias** (restaurantes, lojas, serviços, supermercado, entretenimento, cinema...). 
 - 🎟️ **Cupons e benefícios exclusivos** para os estabelecimentos.  
 - 📍 **Localização  dos estabelecimentos** no mapa interativo.  
 - 🚀 **Interface intuitiva e responsiva** desenvolvida com Jetpack Compose.  
-- 🔄 **Sincronização rápida e eficiente** de dados com uso de coroutines e Flow.  
+- 🔄 **Sincronização rápida e eficiente** de dados com uso de coroutines e Flow.
+  
 ## **Tecnologias Utilizadas**  
 - **Kotlin** - Linguagem principal do projeto.  
 - **Android Studio** - IDE para desenvolvimento.  
@@ -27,12 +32,15 @@ Este projeto foi desenvolvido com fins de estudo. Algumas informações importan
 - **Coil** - Carregamento de imagens de forma rápida e eficiente.
 - **Zxing** - leitura de QR Codes.  
 - **Gradle** - Ferramenta de automação e gerenciamento de dependências.
+  
 ## **Vídeo de Apresentação**  
 🔗 [Inserir link do vídeo aqui]  
+
 ## **Execução do Backend Local**
 1. Para a API funcionar, é preciso ter o Node instalado na sua máquina. Caso não tenha, siga essa documentação: [Instalando o Node e o NPM](https://efficient-sloth-d85.notion.site/Instalando-o-Node-e-o-NPM-d162e2582d5c48499bc6703526912456).
-1. Abra a pasta backend pelo VS Code.
-2. execute o comando: `npm install` e em seguida `npm start`.
+2. Abra a pasta backend pelo VS Code.
+3. execute o comando: `npm install` e em seguida `npm start`.
+   
 ## **Instalação e Configuração**  
 1. **Clone o repositório**:  
    ```bash
