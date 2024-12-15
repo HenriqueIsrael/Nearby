@@ -6,7 +6,7 @@ O **Nearby** é um aplicativo Android que facilita o acesso a cupons e benefíci
 ## **Observações**
 Este projeto foi desenvolvido com fins de estudo. Algumas informações importantes:
 - 📍 A localização no app está mocada (fixada em uma posição pré-definida).
-- 🛠️ Para visualizar os estabelecimentos, é necessário rodar o backend local. Certifique-se de configurar e iniciar o servidor antes de executar o app.
+- 🛠️ Para visualizar os estabelecimentos, é necessário [rodar o backend local](#execução-do-backend-local) . Certifique-se de configurar e iniciar o servidor antes de executar o app.
 - 🚧 Algumas funcionalidades podem ser limitadas, pois o **foco principal foi aplicar conceitos de arquitetura, tecnologias modernas e boas práticas no desenvolvimento Android.**
 
 ## **Funcionalidades**  
