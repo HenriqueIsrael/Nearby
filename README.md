@@ -50,7 +50,9 @@ https://github.com/user-attachments/assets/c618f4f4-d81c-49a4-8064-76d169874d7f
    git clone https://github.com/seu-usuario/nearby-app.git
 2. Abra o projeto pelo Android Studio.
 3. Antes de buildar, configure o arquivo `NearbyRemoteDataSource.kt`. Se estiver usando um dispositivo físico a variável `BASE_URL` (linha 18) deve ser = ` LOCAL_HOST_PHYSICAL_BASE_URL`, entretanto, se estiver usando um emulador `BASE_URL`  = ` LOCAL_HOST_EMULATOR_BASE_URL`.
-4. Com o servidor rodando, você está pronto para buildar o projeto ▶️
+4. Criar uma api key no Google Cloud para consumir a api do Google Maps. Documentação para criação de chave [aqui](https://developers.google.com/maps/get-started?hl=pt-br#create-project).
+5. Substituir a linha 34 no arquivo AndroidManifest.xml pela api key criada.
+6. Com o servidor rodando e api key configurada, você está pronto para buildar o projeto ▶️
 
 ## **Contato**
 Se você tiver dúvidas, sugestões ou quiser colaborar, entre em contato:
